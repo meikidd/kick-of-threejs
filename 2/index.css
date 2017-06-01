@@ -1,0 +1,17 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+html,body {
+	height: 100%;
+}
+body {
+	font-size: 14px;
+	font-family: "Arial","Microsoft YaHei","榛戜綋",sans-serif;
+	overflow: hidden;
+}
+.main-page {
+	position: relative;
+	height: 100%;
+}
